@@ -1,35 +1,36 @@
 <!-- ========================= -->
-<!--        HEADER             -->
+<!--         HEADER            -->
 <!-- ========================= -->
 
 <h1 align="center">Hi 👋, I'm Mostafa Elghandour</h1>
-<h3 align="center">Computer & Systems Engineering Student | Backend Developer | Problem Solver</h3>
+
+<h3 align="center">
+Backend Developer • Network Enthusiast • System Design Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Competitive+Programmer;Cybersecurity+Enthusiast;System+Design+Learner;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Backend+Developer;Networking+Enthusiast;Cybersecurity+Learner;Linux+%26+Server+Administration;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--        ABOUT ME           -->
-<!-- ========================= -->
-
 ## 💫 About Me
 
 🎓 Final-year **Computer & Systems Engineering** student at **Zagazig University**  
-💻 Passionate about **Backend Development**, **System Design**, and **Problem Solving**  
-🚀 Currently improving my skills in **Algorithms**, **Databases**, and **Scalable Systems**  
-🔐 Interested in **Cybersecurity** & **Penetration Testing**  
-⚡ Love building efficient and real-world software solutions  
+
+💻 Passionate about **Backend Development**, **Networking**, and **System Design**  
+
+🌐 Interested in **Servers**, **Linux Administration**, and **Web Technologies**  
+
+🔐 Currently learning **Cybersecurity** & **Penetration Testing**  
+
+🚀 Focused on building scalable and efficient systems  
+
+⚡ Love solving problems and learning new technologies  
 
 ---
 
-<!-- ========================= -->
-<!--        SOCIALS            -->
-<!-- ========================= -->
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.facebook.com/mostafa.elghandour.556511">
@@ -47,46 +48,49 @@
 
 ---
 
-<!-- ========================= -->
-<!--        TECH STACK         -->
-<!-- ========================= -->
-
 # 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,python,php,html,css,js" />
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,php,js,html,css" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs" />
 </p>
 
 ### 🗄️ Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-### ⚙️ Tools & Technologies
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,git,github,apache,arduino,vscode" />
+### 🖥️ Networking & Servers
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,nginx,apache,bash" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
-
-<!-- ========================= -->
-<!--        CURRENT FOCUS      -->
-<!-- ========================= -->
 
 # 🚀 Current Focus
 
 - Backend Development  
-- Competitive Programming  
-- System Design  
 - Networking Fundamentals  
+- Linux & Server Administration  
+- System Design  
 - Cybersecurity & Penetration Testing  
 
 ---
-
-<!-- ========================= -->
-<!--        GITHUB STATS       -->
-<!-- ========================= -->
 
 # 📊 GitHub Stats
 
@@ -102,10 +106,6 @@
 
 ---
 
-<!-- ========================= -->
-<!--        TROPHIES           -->
-<!-- ========================= -->
-
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -113,10 +113,6 @@
 </p>
 
 ---
-
-<!-- ========================= -->
-<!--      ACTIVITY GRAPH       -->
-<!-- ========================= -->
 
 # 📈 Contribution Graph
 
@@ -126,10 +122,6 @@
 
 ---
 
-<!-- ========================= -->
-<!--        DEV QUOTE          -->
-<!-- ========================= -->
-
 # ✍️ Random Dev Quote
 
 <p align="center">
@@ -138,18 +130,10 @@
 
 ---
 
-<!-- ========================= -->
-<!--        VISITORS           -->
-<!-- ========================= -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MostafaElghandour&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
-
-<!-- ========================= -->
-<!--         FOOTER            -->
-<!-- ========================= -->
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
