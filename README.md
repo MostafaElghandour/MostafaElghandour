@@ -71,13 +71,13 @@ Backend Developer • Network Enthusiast • System Design Learner
 ### 🖥️ Networking & Servers
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,nginx,apache,bash" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,bash" />
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
