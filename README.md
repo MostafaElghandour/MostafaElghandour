@@ -85,10 +85,6 @@ Backend Developer • Network Enthusiast • System Design Learner
 # 🚀 Current Focus
 
 - Backend Development  
-- Networking Fundamentals  
-- Linux & Server Administration  
-- System Design  
-- Cybersecurity & Penetration Testing  
 
 ---
 
